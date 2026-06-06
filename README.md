@@ -1,0 +1,1 @@
+# -ai-generated-image-detection
