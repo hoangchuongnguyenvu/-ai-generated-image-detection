@@ -70,8 +70,8 @@ Bộ dữ liệu **19,073 ảnh** thiết kế theo hai tầng:
 Ứng dụng desktop được xây dựng bằng PyQt5, hỗ trợ phát hiện ảnh đại diện giả mạo theo thời gian thực.
 
 <!-- Thêm ảnh chụp màn hình app ở đây -->
-<!-- ![App Screenshot](docs/screenshot_main.png) -->
-<!-- ![App Result](docs/screenshot_result.png) -->
+[App Screenshot](docs/screenshot_main.jpg) 
+![App Result](docs/screenshot_result.jpg)
 
 ### Tính năng
 - 📂 Tải ảnh từ máy tính hoặc kéo thả
